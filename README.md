@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0027-remove-element) |
 ## Math
 |  |
 | ------- |
