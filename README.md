@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0967-minimum-falling-path-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0967-minimum-falling-path-sum) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [1585-the-kth-factor-of-n](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1585-the-kth-factor-of-n) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,4 +76,5 @@
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1585-the-kth-factor-of-n) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 <!---LeetCode Topics End-->
