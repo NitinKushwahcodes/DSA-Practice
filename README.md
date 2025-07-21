@@ -22,6 +22,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0242-valid-anagram) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Sorting
 |  |
 | ------- |
