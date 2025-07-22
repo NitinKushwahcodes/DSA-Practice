@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0198-house-robber](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0967-minimum-falling-path-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0967-minimum-falling-path-sum) |
 | [1813-maximum-erasure-value](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1813-maximum-erasure-value) |
@@ -60,6 +61,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0198-house-robber) |
 | [0967-minimum-falling-path-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0967-minimum-falling-path-sum) |
 ## Matrix
 |  |
