@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0198-house-robber](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0198-house-robber) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0015-3sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -46,6 +48,7 @@
 | ------- |
 | [0015-3sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0027-remove-element) |
 | [0908-middle-of-the-linked-list](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
