@@ -13,6 +13,7 @@
 | [0496-next-greater-element-i](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0967-minimum-falling-path-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0967-minimum-falling-path-sum) |
 | [1813-maximum-erasure-value](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1813-maximum-erasure-value) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Hash Table
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0029-divide-two-integers) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,4 +122,9 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
