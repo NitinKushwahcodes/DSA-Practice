@@ -16,6 +16,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@
 | [0029-divide-two-integers](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
