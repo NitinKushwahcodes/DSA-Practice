@@ -20,6 +20,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2689-rearranging-fruits](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0242-valid-anagram](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [1813-maximum-erasure-value](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1813-maximum-erasure-value) |
+| [2689-rearranging-fruits](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2689-rearranging-fruits) |
 ## String
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [0018-4sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0242-valid-anagram) |
+| [2689-rearranging-fruits](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2689-rearranging-fruits) |
 ## Linked List
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2689-rearranging-fruits](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2689-rearranging-fruits) |
 ## Backtracking
 |  |
 | ------- |
