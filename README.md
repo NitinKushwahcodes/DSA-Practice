@@ -42,6 +42,7 @@
 | [0242-valid-anagram](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0242-valid-anagram) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3396-valid-word](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/3396-valid-word) |
 ## Sorting
 |  |
 | ------- |
