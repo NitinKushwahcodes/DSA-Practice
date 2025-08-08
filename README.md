@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0029-divide-two-integers) |
+| [0826-soup-servings](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0826-soup-servings) |
 | [1585-the-kth-factor-of-n](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1585-the-kth-factor-of-n) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Bit Manipulation
@@ -89,6 +90,7 @@
 | [0022-generate-parentheses](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0198-house-robber) |
+| [0826-soup-servings](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0967-minimum-falling-path-sum) |
 ## Matrix
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
