@@ -16,6 +16,7 @@
 | [0940-fruit-into-baskets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0967-minimum-falling-path-sum) |
 | [1813-maximum-erasure-value](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1813-maximum-erasure-value) |
+| [2058-concatenation-of-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1708-design-parking-system) |
+| [2058-concatenation-of-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
