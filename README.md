@@ -94,6 +94,7 @@
 | [0826-soup-servings](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0967-minimum-falling-path-sum) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Matrix
 |  |
 | ------- |
