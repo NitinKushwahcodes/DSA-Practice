@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0029-divide-two-integers) |
+| [0326-power-of-three](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0826-soup-servings) |
 | [1585-the-kth-factor-of-n](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1585-the-kth-factor-of-n) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
