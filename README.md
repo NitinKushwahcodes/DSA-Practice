@@ -15,6 +15,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0967-minimum-falling-path-sum) |
+| [1675-magnetic-force-between-two-balls](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1675-magnetic-force-between-two-balls) |
 | [1813-maximum-erasure-value](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1813-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -53,6 +54,7 @@
 | [0018-4sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0242-valid-anagram) |
+| [1675-magnetic-force-between-two-balls](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1675-magnetic-force-between-two-balls) |
 | [2689-rearranging-fruits](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2689-rearranging-fruits) |
 ## Linked List
 |  |
@@ -158,6 +160,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1675-magnetic-force-between-two-balls](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1675-magnetic-force-between-two-balls) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
