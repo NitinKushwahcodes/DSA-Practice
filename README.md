@@ -16,6 +16,7 @@
 | [0940-fruit-into-baskets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0967-minimum-falling-path-sum) |
 | [1675-magnetic-force-between-two-balls](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1675-magnetic-force-between-two-balls) |
+| [1783-ways-to-make-a-fair-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1783-ways-to-make-a-fair-array) |
 | [1813-maximum-erasure-value](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1813-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0826-soup-servings) |
+## Prefix Sum
+|  |
+| ------- |
+| [1783-ways-to-make-a-fair-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1783-ways-to-make-a-fair-array) |
 <!---LeetCode Topics End-->
