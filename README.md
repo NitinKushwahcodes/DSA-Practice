@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0136-single-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
