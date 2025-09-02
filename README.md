@@ -91,6 +91,7 @@
 | [0029-divide-two-integers](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0326-power-of-three](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0826-soup-servings) |
+| [1013-fibonacci-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1585-the-kth-factor-of-n) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Bit Manipulation
@@ -111,6 +112,7 @@
 | [0826-soup-servings](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0967-minimum-falling-path-sum) |
+| [1013-fibonacci-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Matrix
 |  |
@@ -123,6 +125,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -216,4 +219,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
