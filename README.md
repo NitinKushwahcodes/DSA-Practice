@@ -74,6 +74,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -218,9 +219,18 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1013-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
