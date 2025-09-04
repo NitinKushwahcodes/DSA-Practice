@@ -27,6 +27,7 @@
 | [1783-ways-to-make-a-fair-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1783-ways-to-make-a-fair-array) |
 | [1813-maximum-erasure-value](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1813-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2058-concatenation-of-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -47,6 +48,7 @@
 | [0496-next-greater-element-i](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1813-maximum-erasure-value) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2689-rearranging-fruits](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2689-rearranging-fruits) |
 ## String
 |  |
@@ -156,6 +158,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
 | [1708-design-parking-system](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1708-design-parking-system) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Sliding Window
 |  |
 | ------- |
