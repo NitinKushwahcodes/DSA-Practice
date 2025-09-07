@@ -26,6 +26,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1675-magnetic-force-between-two-balls) |
 | [1783-ways-to-make-a-fair-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1783-ways-to-make-a-fair-array) |
 | [1813-maximum-erasure-value](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1813-maximum-erasure-value) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
