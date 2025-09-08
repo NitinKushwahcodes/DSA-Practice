@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
@@ -87,6 +88,7 @@
 | [0016-3sum-closest](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0027-remove-element) |
 | [0908-middle-of-the-linked-list](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Math
