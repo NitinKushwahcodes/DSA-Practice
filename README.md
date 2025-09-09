@@ -13,6 +13,7 @@
 | [0037-sudoku-solver](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -78,6 +79,7 @@
 | [0018-4sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0268-missing-number) |
@@ -101,6 +103,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
