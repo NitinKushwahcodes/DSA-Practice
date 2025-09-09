@@ -14,6 +14,7 @@
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0198-house-robber) |
 | [0826-soup-servings](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
