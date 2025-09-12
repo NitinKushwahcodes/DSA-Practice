@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -53,6 +54,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0967-minimum-falling-path-sum) |
 ## Recursion
 |  |
