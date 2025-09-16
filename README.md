@@ -14,6 +14,7 @@
 | [0037-sudoku-solver](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0967-minimum-falling-path-sum) |
 ## Recursion
@@ -180,6 +182,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [1708-design-parking-system](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
