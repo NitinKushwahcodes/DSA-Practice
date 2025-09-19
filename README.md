@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0018-4sum) |
@@ -225,6 +226,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -260,6 +262,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
 ## Memoization
