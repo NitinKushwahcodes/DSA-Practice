@@ -51,6 +51,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2689-rearranging-fruits](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2689-rearranging-fruits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3790-fruits-into-baskets-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@
 | [1813-maximum-erasure-value](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1813-maximum-erasure-value) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2689-rearranging-fruits](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2689-rearranging-fruits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
 | [1708-design-parking-system](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1708-design-parking-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
 | ------- |
