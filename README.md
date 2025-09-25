@@ -29,6 +29,7 @@
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -64,6 +65,7 @@
 | [0073-set-matrix-zeroes](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -93,6 +95,7 @@
 | [0075-sort-colors](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0268-missing-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1675-magnetic-force-between-two-balls) |
@@ -201,6 +204,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [1708-design-parking-system](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1708-design-parking-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
