@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0018-4sum) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
@@ -291,4 +293,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
