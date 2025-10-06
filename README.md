@@ -52,6 +52,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -139,6 +140,7 @@
 | [0826-soup-servings](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1585-the-kth-factor-of-n) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Bit Manipulation
 |  |
@@ -207,6 +209,7 @@
 | [1708-design-parking-system](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
@@ -301,4 +304,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
