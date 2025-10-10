@@ -36,6 +36,7 @@
 | [0268-missing-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0493-reverse-pairs](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -252,6 +253,7 @@
 | [0035-search-insert-position](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [1046-max-consecutive-ones-iii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1675-magnetic-force-between-two-balls) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -263,10 +265,12 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Probability and Statistics
 |  |
@@ -288,6 +292,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -300,6 +305,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -308,4 +314,8 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
