@@ -40,6 +40,7 @@
 | [0493-reverse-pairs](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0907-koko-eating-bananas](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0967-minimum-falling-path-sum) |
@@ -256,6 +257,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0907-koko-eating-bananas](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1675-magnetic-force-between-two-balls) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
