@@ -24,6 +24,7 @@
 | [0059-spiral-matrix-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
@@ -257,6 +258,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0268-missing-number) |
