@@ -96,6 +96,7 @@
 | [0020-valid-parentheses](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0242-valid-anagram) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -136,6 +137,7 @@
 | [0031-next-permutation](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NitinKushwahcodes/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
